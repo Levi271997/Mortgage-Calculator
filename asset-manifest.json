@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Mortgage-Calculator/static/css/main.f855e6bc.css",
-    "main.js": "/Mortgage-Calculator/static/js/main.875de444.js",
-    "static/js/453.3f5bccdb.chunk.js": "/Mortgage-Calculator/static/js/453.3f5bccdb.chunk.js",
-    "static/media/logo.svg": "/Mortgage-Calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Mortgage-Calculator/static/css/main.e68b8ecc.css",
+    "main.js": "/Mortgage-Calculator/static/js/main.1a686184.js",
+    "static/js/453.9c658fe1.chunk.js": "/Mortgage-Calculator/static/js/453.9c658fe1.chunk.js",
+    "static/media/PlusJakartaSans-Italic-VariableFont_wght.ttf": "/Mortgage-Calculator/static/media/PlusJakartaSans-Italic-VariableFont_wght.8eca6f78230e2b1fc1f5.ttf",
+    "static/media/PlusJakartaSans-VariableFont_wght.ttf": "/Mortgage-Calculator/static/media/PlusJakartaSans-VariableFont_wght.91a892b057d3b1e6c20b.ttf",
+    "static/media/PlusJakartaSans-Medium.ttf": "/Mortgage-Calculator/static/media/PlusJakartaSans-Medium.f78ffc04acb877ce387e.ttf",
+    "static/media/PlusJakartaSans-Bold.ttf": "/Mortgage-Calculator/static/media/PlusJakartaSans-Bold.542d4930de15d99be736.ttf",
+    "static/media/illustration-empty.svg": "/Mortgage-Calculator/static/media/illustration-empty.386ea08ab891d163a8b41f8d62d21413.svg",
     "index.html": "/Mortgage-Calculator/index.html",
-    "main.f855e6bc.css.map": "/Mortgage-Calculator/static/css/main.f855e6bc.css.map",
-    "main.875de444.js.map": "/Mortgage-Calculator/static/js/main.875de444.js.map",
-    "453.3f5bccdb.chunk.js.map": "/Mortgage-Calculator/static/js/453.3f5bccdb.chunk.js.map"
+    "static/media/icon-calculator.svg": "/Mortgage-Calculator/static/media/icon-calculator.54e74f940d9e6aeeaf19d94b550a25a6.svg",
+    "main.e68b8ecc.css.map": "/Mortgage-Calculator/static/css/main.e68b8ecc.css.map",
+    "main.1a686184.js.map": "/Mortgage-Calculator/static/js/main.1a686184.js.map",
+    "453.9c658fe1.chunk.js.map": "/Mortgage-Calculator/static/js/453.9c658fe1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.875de444.js"
+    "static/css/main.e68b8ecc.css",
+    "static/js/main.1a686184.js"
   ]
 }
